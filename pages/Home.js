@@ -1,5 +1,4 @@
 import { View, Text } from "react-native"
-import { StatusBar } from 'expo-status-bar';
 import {ScrollView} from 'react-native'
 import Icons from 'react-native-vector-icons/Ionicons'
 import Octicons from 'react-native-vector-icons/Octicons'
